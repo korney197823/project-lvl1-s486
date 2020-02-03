@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import action from "../index.js";
+// eslint-disable-next-line import/extensions
+import action from '../index.js';
 
 action();
-
